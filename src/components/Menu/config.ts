@@ -67,14 +67,14 @@ const config: MenuEntry[] = [
   //    },
   //  ],
 //  },
- {
-    label: 'More',
-    icon: 'MoreIcon',
-    items: [
-      {
-        label: 'Github',
-        href: 'https://github.com/Gend0Ikari/',
-      },
+// {
+//    label: 'More',
+//    icon: 'MoreIcon',
+//    items: [
+//      {
+//        label: 'Github',
+//        href: 'https://github.com/Gend0Ikari/',
+//      },
 //      {
 //        label: 'Docs',
 //        href: 'https://goosedefi.gitbook.io/goose-finance/',
