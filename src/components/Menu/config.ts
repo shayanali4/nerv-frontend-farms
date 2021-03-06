@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: '/',
+    href: 'https://n3rv.org/',
   },
   {
     label: 'Trade',
@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.goosedefi.com/',
+        href: 'https://exchange.n3rv.org/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.goosedefi.com/#/pool',
+        href: 'https://exchange.n3rv.org/#/pool',
       },
     ],
   },
@@ -67,14 +67,14 @@ const config: MenuEntry[] = [
   //    },
   //  ],
 //  },
-//  {
-//    label: 'More',
-//    icon: 'MoreIcon',
-//    items: [
-//      {
-//        label: 'Github',
-//        href: 'https://github.com/goosedefi/',
-//      },
+ {
+    label: 'More',
+    icon: 'MoreIcon',
+    items: [
+      {
+        label: 'Github',
+        href: 'https://github.com/Gend0Ikari/',
+      },
 //      {
 //        label: 'Docs',
 //        href: 'https://goosedefi.gitbook.io/goose-finance/',
