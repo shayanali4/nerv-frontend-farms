@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://n3rv.org/',
+    href: 'https://n3rv.org',
   },
   {
     label: 'Trade',
